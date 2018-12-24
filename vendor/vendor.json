@@ -1,0 +1,181 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QeKwBtN2df+j+4stw3bQJ6yO4EY=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae",
+			"revisionTime": "2017-01-09T09:34:21Z"
+		},
+		{
+			"checksumSHA1": "cpELhz30Sco7IBwvI6FyuShnjnQ=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "d459835d2b077e44f7c9b453505ee29881d5d12d",
+			"revisionTime": "2017-07-02T09:28:26Z",
+			"version": "v1.2",
+			"versionExact": "v1.2"
+		},
+		{
+			"checksumSHA1": "YVt5lqmGq95m5tFdiz5pr2BF1Jo=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "d459835d2b077e44f7c9b453505ee29881d5d12d",
+			"revisionTime": "2017-07-02T09:28:26Z",
+			"version": "v1.2",
+			"versionExact": "v1.2"
+		},
+		{
+			"checksumSHA1": "M3FwiqpVbXwo9t2FyI5/gKxCDKY=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "d459835d2b077e44f7c9b453505ee29881d5d12d",
+			"revisionTime": "2017-07-02T09:28:26Z",
+			"version": "v1.2",
+			"versionExact": "v1.2"
+		},
+		{
+			"checksumSHA1": "mE9XW26JSpe4meBObM6J/Oeq0eg=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "aa810b61a9c79d51363740d207bb46cf8e620ed5",
+			"revisionTime": "2018-08-14T21:14:27Z"
+		},
+		{
+			"checksumSHA1": "AWp8ir90+vjxGkcIwqB1XWylxb4=",
+			"path": "github.com/graph-gophers/graphql-go",
+			"revision": "0079757a4d9612f5674f8f9996e2350e1259ff1b",
+			"revisionTime": "2018-11-28T22:09:52Z"
+		},
+		{
+			"checksumSHA1": "/i+oMCC/osxe0KfoC8lbIuZom0o=",
+			"path": "github.com/graph-gophers/graphql-go/errors",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "Tggf7x/oZkiv5yQznRyHzZcU1vo=",
+			"path": "github.com/graph-gophers/graphql-go/internal/common",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "/bNQDRYPRRQo04I3Adtfxz6B8FM=",
+			"path": "github.com/graph-gophers/graphql-go/internal/exec",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "Bucl75VZRgPBboreGJQKIv/RHcY=",
+			"path": "github.com/graph-gophers/graphql-go/internal/exec/packer",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "f7z1lY9FZb94cjigMeyitcViCp8=",
+			"path": "github.com/graph-gophers/graphql-go/internal/exec/resolvable",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "Av5FNzd017kuEmWPo1MeyPRardw=",
+			"path": "github.com/graph-gophers/graphql-go/internal/exec/selected",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "qTSJ5fVIb7rls1gvyVrFmDZuyfw=",
+			"path": "github.com/graph-gophers/graphql-go/internal/query",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "IbbCtOhKdNHh46gSFm4V8ECXCZQ=",
+			"path": "github.com/graph-gophers/graphql-go/internal/schema",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "/XZnz6Oi6pirh6zdn9QRPiZClUk=",
+			"path": "github.com/graph-gophers/graphql-go/internal/validation",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "JY1146PnFG5ZY82Drfti2yW6Wqo=",
+			"path": "github.com/graph-gophers/graphql-go/introspection",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "Sb3/9Zf+anzyutfqxD2CxTVdDG0=",
+			"path": "github.com/graph-gophers/graphql-go/log",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "h9lR2l7dWiXo/yF4zq6XZE4MEBY=",
+			"path": "github.com/graph-gophers/graphql-go/relay",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "4rdWXZp7lvNmRwUHYnELTPng8/8=",
+			"path": "github.com/graph-gophers/graphql-go/trace",
+			"revision": "94da0f0031f9d30a1d56cd4b56e40852516c3301",
+			"revisionTime": "2018-08-06T17:57:03Z"
+		},
+		{
+			"checksumSHA1": "6DVd4tXfoer2bc5pcEVOj0bNf7w=",
+			"path": "github.com/itsjamie/gin-cors",
+			"revision": "97b4a9da79331dfa2b6d35f4cdd1e50f5148859c",
+			"revisionTime": "2016-04-20T13:07:02Z"
+		},
+		{
+			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c",
+			"revisionTime": "2017-11-07T05:05:31Z"
+		},
+		{
+			"checksumSHA1": "wIcN7tZiF441h08RHAm4NV8cYO4=",
+			"path": "github.com/opentracing/opentracing-go",
+			"revision": "bd9c3193394760d98b2fa6ebb2291f0cd1d06a7d",
+			"revisionTime": "2018-06-06T20:41:48Z"
+		},
+		{
+			"checksumSHA1": "uhDxBvLEqRAMZKgpTZ8MFuLIIM8=",
+			"path": "github.com/opentracing/opentracing-go/ext",
+			"revision": "bd9c3193394760d98b2fa6ebb2291f0cd1d06a7d",
+			"revisionTime": "2018-06-06T20:41:48Z"
+		},
+		{
+			"checksumSHA1": "tnkdNJbJxNKuPZMWapP1xhKIIGw=",
+			"path": "github.com/opentracing/opentracing-go/log",
+			"revision": "bd9c3193394760d98b2fa6ebb2291f0cd1d06a7d",
+			"revisionTime": "2018-06-06T20:41:48Z"
+		},
+		{
+			"checksumSHA1": "K5D4zWjJA9HWph4H+xumKo/bsq0=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "00b869d2f4a5e27445c2d916fa106fc72c106d4c",
+			"revisionTime": "2018-08-13T09:23:08Z"
+		},
+		{
+			"checksumSHA1": "LeV5qDBHhQEbFMh9PARudS6ltos=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "4e1fef5609515ec7a2cee7b5de30ba6d9b438cbf",
+			"revisionTime": "2018-08-13T06:52:15Z"
+		},
+		{
+			"checksumSHA1": "P/k5ZGf0lEBgpKgkwy++F7K1PSg=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"revisionTime": "2018-03-28T19:50:20Z"
+		}
+	],
+	"rootPath": "graphqlgo"
+}

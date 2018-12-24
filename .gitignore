@@ -17,7 +17,8 @@
 *.out
 
 ### Go Patch ###
-/vendor/
+vendor/*
+!vendor/vendor.json
 /Godeps/
 
 # End of https://www.gitignore.io/api/go
